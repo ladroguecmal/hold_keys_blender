@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id          = "hold_keys"
+version     = "2.0.0"
+name        = "Hold Keys"
+tagline     = "Hold-shortcut support for any native or addon operator"
+maintainer  = "You <you@example.com>"
+type        = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+# No special permissions needed — pure Python, no network/file/clipboard access.
